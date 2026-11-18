@@ -52,5 +52,5 @@ jupyter notebook churn_prediction_xgboost_shap.ipynb
 Or open it in Google Colab and upload `synthetic_new_users.csv` next to the notebook.
 
 ## Related
-- Live demo (Streamlit): https://project-predictive-segmentation-fernandolee.streamlit.app/
+- Live demo (Streamlit): https://churn-prediction-xai-digital-wallet.streamlit.app/ · app source: [fintech-churn-risk-app](https://github.com/fernandoolee/fintech-churn-risk-app)
 - Author: **Fernando Lee**, Information Systems, BINUS University · [GitHub](https://github.com/fernandoolee)
